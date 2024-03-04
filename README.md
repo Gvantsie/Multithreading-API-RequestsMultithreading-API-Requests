@@ -1,4 +1,4 @@
-# Multithreading-API-RequestsMultithreading-API-Requests
+# Multithreading-API-Requests
 
 This Python script is designed to fetch product data from a dummy API endpoint and save the retrieved data into a JSON file.
 
